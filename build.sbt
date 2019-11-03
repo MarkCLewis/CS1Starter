@@ -2,6 +2,7 @@ name := "CS1"
 version := "1.0"
 scalaVersion := "2.12.8"
 run / fork := true
+run / connectInput := true
 
 libraryDependencies ++= Seq(
 	"org.scalafx" %% "scalafx" % "8.0.192-R14",
