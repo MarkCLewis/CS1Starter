@@ -1,5 +1,6 @@
 .bloop
 .metals
+.bsp
 
 # Created by https://www.gitignore.io/api/sbt,scala,eclipse
 
